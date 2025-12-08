@@ -18,7 +18,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
 		<itunes:summary>"Som do Mundo" é um programa semanal com 2h de duração, apresentando musicalidades incomuns ao rádio convencional, transmitido pela UESB FM, produzido e apresentado pelo músico e historiador Plácido Oliveira (Distintivo Blue, Memória Musical do Sudoeste da Bahia, BLUEZinada!).</itunes:summary>
 		<itunes:subtitle>Música para além do óbvio!</itunes:subtitle>
 		<itunes:author>Plácido Oliveira</itunes:author>
-		<itunes:image href="https://www.dropbox.com/scl/fi/ls8n4dnfpfh7ytbumspdi/Somdomundologo.png?rlkey=17dvbhgsuywq6sllr8vftd4mt&dl=1"/>
+		<itunes:image href="https://www.dropbox.com/scl/fi/ls8n4dnfpfh7ytbumspdi/Somdomundologo.png?rlkey=17dvbhgsuywq6sllr8vftd4mt&amp;dl=1"/>
 		<webMaster>radio@distintivoblue.com</webMaster>
 		<managingEditor>radio@distintivoblue.com</managingEditor>
 		<copyright>Copyright @ 2025 Plácido Oliveira</copyright>
@@ -30,7 +30,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
 		<image>
 			<title>Som do Mundo</title>
 			<link>https://radio.distintivoblue.com</link>
-			<url>https://dl.dropbox.com/scl/fi/ls8n4dnfpfh7ytbumspdi/Somdomundologo.png</url>
+			<url>https://github.com/placidoliveira/somdomundo/blob/main/Somdomundologo.png</url>
 		</image>
 		<item>
 			<author>Plácido Oliveira | UESB FM</author>
