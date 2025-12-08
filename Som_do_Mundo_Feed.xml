@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
 xmlns:content="http://purl.org/rss/1.0/modules/content/"
 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -30,7 +30,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
 		<image>
 			<title>Som do Mundo</title>
 			<link>https://radio.distintivoblue.com</link>
-			<url>https://github.com/placidoliveira/somdomundo/blob/main/Somdomundologo.png</url>
+			<url>https://placidoliveira.github.io/somdomundo/Somdomundologo.png</url>
 		</image>
 		<item>
 			<author>Plácido Oliveira | UESB FM</author>
@@ -68,34 +68,4 @@ Pois é. A música é tão diversa quanto a humanidade, e serve para todas as oc
 			<author>Plácido Oliveira | UESB FM</author>
 			<title>Som do Mundo - T1E01B03: Pata de Elefante, Paris Combo</title>
 			<description>Na estreia de SOM DO MUNDO, fizemos uma grande viagem ao redor do mundo, partindo de Nova Iorque, com o Project Trio, passando pelo Haiti, Espanha, França, Japão e o sul do Brasil, incluindo músicas instrumentais. A ideia central do programa é romper (pseudo)paradigmas relacionados ao rádio e abrir horizontes: já reparou que dificilmente escutamos outros idiomas além do português brasileiro e o inglês? E que tendemos a considerar "chata" a música instrumental, de forma até automática?
-Pois é. A música é tão diversa quanto a humanidade, e serve para todas as ocasiões, estados de espírito e contextos. Há apenas uma verdade: dificilmente conseguimos viver sem ela. Espero que curta a curadoria deste episódio e deixe suas impressões.</description>
-			<link>http://radio.distintivoblue.com/2025/12/som-do-mundo-t1e01-04122025.html</link>
-			<pubDate>Sun, 07 Dec 2025 12:02:00 -0300</pubDate>
-			<itunes:duration>0:24:56</itunes:duration>
-			<itunes:keywords>UESB FM, Plácido Oliveira, Paris Combo, Pata de Elefante</itunes:keywords>
-			<itunes:subtitle>Terceiro bloco de SOM DO MUNDO T1E01.</itunes:subtitle>
-			<itunes:summary>Terceiro bloco de SOM DO MUNDO T1E01.</itunes:summary>
-			<itunes:author>Plácido Oliveira</itunes:author>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:block>no</itunes:block>
-			<enclosure url="https://media.blubrry.com/3956651/dn721508.ca.archive.org/0/items/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B3%20-%20ELEFANTE%20E%20PARIS.mp3" length="45570169" type="audio/mpeg"/>
-		</item>
-								<item>
-			<author>Plácido Oliveira | UESB FM</author>
-			<title>Som do Mundo - T1E01B04: Revisão</title>
-			<description>Na estreia de SOM DO MUNDO, fizemos uma grande viagem ao redor do mundo, partindo de Nova Iorque, com o Project Trio, passando pelo Haiti, Espanha, França, Japão e o sul do Brasil, incluindo músicas instrumentais. A ideia central do programa é romper (pseudo)paradigmas relacionados ao rádio e abrir horizontes: já reparou que dificilmente escutamos outros idiomas além do português brasileiro e o inglês? E que tendemos a considerar "chata" a música instrumental, de forma até automática?
-Pois é. A música é tão diversa quanto a humanidade, e serve para todas as ocasiões, estados de espírito e contextos. Há apenas uma verdade: dificilmente conseguimos viver sem ela. Espero que curta a curadoria deste episódio e deixe suas impressões.</description>
-			<link>http://radio.distintivoblue.com/2025/12/som-do-mundo-t1e01-04122025.html</link>
-			<pubDate>Sun, 07 Dec 2025 12:03:00 -0300</pubDate>
-			<itunes:duration>0:28:39</itunes:duration>
-			<itunes:keywords>UESB FM, Plácido Oliveira, Paris Combo, Pata de Elefante</itunes:keywords>
-			<itunes:subtitle>Quarto bloco de SOM DO MUNDO T1E01.</itunes:subtitle>
-			<itunes:summary>Quarto bloco de SOM DO MUNDO T1E01.</itunes:summary>
-			<itunes:author>Plácido Oliveira</itunes:author>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:block>no</itunes:block>
-			<enclosure url="https://media.blubrry.com/3956651/dn721508.ca.archive.org/0/items/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B4%20-%20ENCERRAMENTO.mp3" length="45570169" type="audio/mpeg"/>
-		</item>
-	</channel>
-</rss>  
-
+Pois é. A música é tão diversa quanto a humanidade, e serve para todas as ocasiões, estados de espírito e contextos. Há apenas uma verdade: dificilmente conseguimos viver sem ela. Espero que
