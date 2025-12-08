@@ -25,6 +25,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
 		<language>pt-br</language>
 		<title>Som do Mundo | UESB FM</title>
 		<link>https://radio.distintivoblue.com</link>
+		<atom:link href="https://placidoliveira.github.io/somdomundo/Som_do_Mundo_Feed.xml" rel="self" type="application/rss+xml"/>
 		<description>"Som do Mundo" é um programa semanal com 2h de duração, apresentando musicalidades incomuns ao rádio convencional, transmitido pela UESB FM, produzido e apresentado pelo músico e historiador Plácido Oliveira (Distintivo Blue, Memória Musical do Sudoeste da Bahia, BLUEZinada!).</description>
 		<pubDate>Thu, 01 Dec 2025 22:00:00 -0300</pubDate>
 		<image>
@@ -81,4 +82,24 @@ Pois é. A música é tão diversa quanto a humanidade, e serve para todas as oc
 			<itunes:author>Plácido Oliveira</itunes:author>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:block>no</itunes:block>
-			<enclosure url="https://media.blubrry.com/3956651/archive.org/
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B2%20-%20MOONLIGHT%20E%20YOKO.mp3" length="45570169" type="audio/mpeg"/>
+		</item>
+
+		<item>
+			<author>Plácido Oliveira | UESB FM</author>
+			<title>Som do Mundo - T1E01B01: Project Trio, La Oreja de Van Gogh</title>
+			<description>Na estreia de SOM DO MUNDO, fizemos uma grande viagem ao redor do mundo, partindo de Nova Iorque, com o Project Trio, passando pelo Haiti, Espanha, França, Japão e o sul do Brasil, incluindo músicas instrumentais. A ideia central do programa é romper (pseudo)paradigmas relacionados ao rádio e abrir horizontes: já reparou que dificilmente escutamos outros idiomas além do português brasileiro e o inglês? E que tendemos a considerar "chata" a música instrumental, de forma até automática?
+Pois é. A música é tão diversa quanto a humanidade, e serve para todas as ocasiões, estados de espírito e contextos. Há apenas uma verdade: dificilmente conseguimos viver sem ela. Espero que curta a curadoria deste episódio e deixe suas impressões.</description>
+			<link>http://radio.distintivoblue.com/2025/12/som-do-mundo-t1e01-04122025.html</link>
+			<pubDate>Sun, 07 Dec 2025 12:04:00 -0300</pubDate>
+			<itunes:duration>0:24:58</itunes:duration>
+			<itunes:keywords>UESB FM, Plácido Oliveira, Project Trio, La Oreja de Van Gogh</itunes:keywords>
+			<itunes:subtitle>Primeiro bloco de SOM DO MUNDO T1E01.</itunes:subtitle>
+			<itunes:summary>Primeiro bloco de SOM DO MUNDO T1E01.</itunes:summary>
+			<itunes:author>Plácido Oliveira</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:block>no</itunes:block>
+			<enclosure url="https://media.blubrry.com/3956651/dn721508.ca.archive.org/0/items/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B1%20-%20INICIO.mp3" length="45570169" type="audio/mpeg"/>
+		</item>
+	</channel>
+</rss>
