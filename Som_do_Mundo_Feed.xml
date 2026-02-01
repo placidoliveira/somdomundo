@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Som do Mundo | UESB FM</title>
+        <description>Programa de rádio Som do Mundo, transmitido pela UESB FM.</description>
         <link>https://radio.distintivoblue.com</link>
         <language>pt-br</language>
         <itunes:author>Plácido Oliveira</itunes:author>
         <itunes:type>episodic</itunes:type>
-        <itunes:category text="Music"/>
+        <itunes:category text="Music">
+            <itunes:category text="Music History"/>
+        </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://ia600409.us.archive.org/22/items/somdomundo-t-1-e-4-b-3-patato-blackberry/SOM%20DO%20MUNDO%20%2304.png"/>
         <pubDate>Sun, 01 Feb 2026 09:10:00 -0300</pubDate>
@@ -16,7 +19,7 @@
             <title>Som do Mundo - T1E04B01: Xime Monzón, Jack Broadbent</title>
             <link>https://archive.org/details/somdomundo-t-1-e-4-b-3-patato-blackberry</link>
             <pubDate>Sun, 01 Feb 2026 09:10:00 -0300</pubDate>
-            <enclosure url="https://media.blubrry.com/3956651/ia600409.us.archive.org/22/items/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B1%20MONZON%2BBROADBENT.mp3" length="59664691" type="audio/mpeg"/>
+            <enclosure url="https://media.blubrry.com/3956651/ia600409.us.archive.org/22/items/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B1%20MONZON%2BBROADBENT.mp3" length="59663677" type="audio/mpeg"/>
             <guid isPermaLink="false">somdomundo-t1e04b01</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
@@ -61,6 +64,22 @@
             <guid isPermaLink="false">somdomundo-t1e03b02</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
+        <item>
+            <title>Som do Mundo - T1E03B03: Johnny Trouble &amp; Hillbilly Rawhide</title>
+            <link>https://archive.org/details/somdomundot1e03</link>
+            <pubDate>Sun, 25 Jan 2026 13:28:00 -0300</pubDate>
+            <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e03/SOM%20DO%20MUNDO%20-%20T1E03%20-%20B3%20-%20TROUBLE%2BRAWHIDE.mp3" length="49807360" type="audio/mpeg"/>
+            <guid isPermaLink="false">somdomundo-t1e03b03</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Som do Mundo - T1E03B04: Revisão</title>
+            <link>https://archive.org/details/somdomundot1e03</link>
+            <pubDate>Sun, 25 Jan 2026 13:27:00 -0300</pubDate>
+            <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e03/SOM%20DO%20MUNDO%20-%20T1E03%20-%20B4%20-%20REVISAO.mp3" length="56727961" type="audio/mpeg"/>
+            <guid isPermaLink="false">somdomundo-t1e03b04</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
 
         <item>
             <title>Som do Mundo - T1E02B01: Trio Mandili e Molchat Doma</title>
@@ -68,6 +87,22 @@
             <pubDate>Sun, 21 Dec 2025 12:00:00 -0300</pubDate>
             <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e02/SOM%20DO%20MUNDO%20-%20T1E02%20-%20B1%20-%20INICIO-MANDILI_MOLCHAT.mp3" length="57461964" type="audio/mpeg"/>
             <guid isPermaLink="false">somdomundo-t1e02b01</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Som do Mundo - T1E02B02: Sally Nyolo e Alice Gold</title>
+            <link>https://archive.org/details/somdomundot1e02</link>
+            <pubDate>Sun, 21 Dec 2025 11:59:00 -0300</pubDate>
+            <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e02/SOM%20DO%20MUNDO%20-%20T1E02%20-%20B2%20-%20SALLY_ALICE.mp3" length="52533657" type="audio/mpeg"/>
+            <guid isPermaLink="false">somdomundo-t1e02b02</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Som do Mundo - T1E02B03: Color Humano e Cristiano Varisco</title>
+            <link>https://archive.org/details/somdomundot1e02</link>
+            <pubDate>Sun, 21 Dec 2025 11:58:00 -0300</pubDate>
+            <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e02/SOM%20DO%20MUNDO%20-%20T1E02%20-%20B3%20-%20COLOR_VARISCO.mp3" length="61236838" type="audio/mpeg"/>
+            <guid isPermaLink="false">somdomundo-t1e02b03</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
@@ -85,6 +120,14 @@
             <pubDate>Sun, 07 Dec 2025 13:30:00 -0300</pubDate>
             <enclosure url="https://media.blubrry.com/3956651/dn721508.ca.archive.org/0/items/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B1%20-%20INICIO.mp3" length="47919923" type="audio/mpeg"/>
             <guid isPermaLink="false">somdomundo-t1e01b01</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Som do Mundo - T1E01B02: Moonlight Benjamin, Yoko Kanno</title>
+            <link>https://archive.org/details/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko</link>
+            <pubDate>Sun, 07 Dec 2025 13:29:00 -0300</pubDate>
+            <enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B2%20-%20MOONLIGHT%20E%20YOKO.mp3" length="58825113" type="audio/mpeg"/>
+            <guid isPermaLink="false">somdomundo-t1e01b02</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
