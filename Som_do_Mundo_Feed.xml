@@ -1,133 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Som do Mundo | UESB FM</title>
-    <description>Programa de rádio Som do Mundo, transmitido pela UESB FM, explorando sonoridades globais.</description>
-    <link>https://radio.distintivoblue.com</link>
-    <language>pt-br</language>
-    <itunes:author>Plácido Oliveira</itunes:author>
-    <itunes:type>episodic</itunes:type>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://ia600409.us.archive.org/22/items/somdomundo-t-1-e-4-b-3-patato-blackberry/SOM%20DO%20MUNDO%20%2304.png"/>
-    <itunes:category text="Music">
-      <itunes:category text="Music History"/>
-    </itunes:category>
-    <atom:link href="https://placidoliveira.github.io/somdomundo/Som_do_Mundo_Feed.xml" rel="self" type="application/rss+xml"/>
+<rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Som do Mundo | UESB FM</title>
+		<link>https://radio.distintivoblue.com</link>
+		<description>"Som do Mundo" é um programa semanal com 2h de duração, apresentando musicalidades incomuns ao rádio convencional, transmitido pela UESB FM, produzido e apresentado pelo músico e historiador Plácido Oliveira.</description>
+		<language>pt-br</language>
+		<copyright>Copyright @ 2026 Plácido Oliveira</copyright>
+		<pubDate>Sun, 01 Feb 2026 13:30:00 -0300</pubDate>
+		<atom:link href="https://placidoliveira.github.io/somdomundo/Som_do_Mundo_Feed.xml" rel="self" type="application/rss+xml"/>
+		
+		<itunes:author>Plácido Oliveira</itunes:author>
+		<itunes:subtitle>Música para além do óbvio!</itunes:subtitle>
+		<itunes:summary>"Som do Mundo" é um programa semanal com 2h de duração, apresentando musicalidades incomuns ao rádio convencional.</itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>Plácido Oliveira</itunes:name>
+			<itunes:email>radio@distintivoblue.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://placidoliveira.github.io/somdomundo/Somdomundologo.png"/>
+		
+		<itunes:category text="Music">
+			<itunes:category text="Music History"/>
+		</itunes:category>
 
-    <item>
-      <title>Som do Mundo - T1E04B1: Monzón &amp; Broadbent</title>
-      <link>https://archive.org/details/somdomundo-t-1-e-4-b-3-patato-blackberry</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B1%20MONZON%2BBROADBENT.mp3" length="59663677" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e04b1</guid>
-      <pubDate>Sun, 01 Feb 2026 09:10:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Som do Mundo - T1E04B2: Finches &amp; Bach</title>
-      <link>https://archive.org/details/somdomundo-t-1-e-4-b-3-patato-blackberry</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B2%20FINCHES%2BBACH.mp3" length="57461964" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e04b2</guid>
-      <pubDate>Sun, 01 Feb 2026 09:09:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Som do Mundo - T1E04B3: Patato &amp; Blackberry</title>
-      <link>https://archive.org/details/somdomundo-t-1-e-4-b-3-patato-blackberry</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B3%20PATATO%2BBLACKBERRY.mp3" length="73715220" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e04b3</guid>
-      <pubDate>Sun, 01 Feb 2026 09:08:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Som do Mundo - T1E04B4: Revisão</title>
-      <link>https://archive.org/details/somdomundo-t-1-e-4-b-3-patato-blackberry</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B4%20REVISAO.mp3" length="71303168" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e04b4</guid>
-      <pubDate>Sun, 01 Feb 2026 09:07:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
+		<item>
+			<title>Som do Mundo - T1E04B01: Xime Monzón, Jack Broadbent</title>
+			<link>http://radio.distintivoblue.com/2026/01/som-do-mundo-t1e04-29012026.html</link>
+			<pubDate>Sun, 01 Feb 2026 13:30:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e04b01</guid>
+			<description>No programa desta semana a nossa viagem musical começa pela Argentina, com a gaitista XIME MONZÓN e o guitarrista JACK BROADBENT.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B1%20MONZON%2BBROADBENT.mp3" length="59663677" type="audio/mpeg"/>
+			<itunes:duration>0:31:04</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 
-    <item>
-      <title>Som do Mundo - T1E03B1: Fishmans &amp; Nouvelle Vague</title>
-      <link>https://archive.org/details/somdomundot1e03</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e03/SOM%20DO%20MUNDO%20-%20T1E03%20-%20B1%20-%20INICIO.mp3" length="69000000" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e03b1</guid>
-      <pubDate>Sun, 25 Jan 2026 13:30:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Som do Mundo - T1E03B2: Rodriguez &amp; Sumac</title>
-      <link>https://archive.org/details/somdomundot1e03</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e03/SOM%20DO%20MUNDO%20-%20T1E03%20-%20B2%20-%20RODRIGUEZ%2BSUMAC.mp3" length="53267660" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e03b2</guid>
-      <pubDate>Sun, 25 Jan 2026 13:29:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Som do Mundo - T1E03B3: Trouble &amp; Rawhide</title>
-      <link>https://archive.org/details/somdomundot1e03</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e03/SOM%20DO%20MUNDO%20-%20T1E03%20-%20B3%20-%20TROUBLE%2BRAWHIDE.mp3" length="49807360" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e03b3</guid>
-      <pubDate>Sun, 25 Jan 2026 13:28:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Som do Mundo - T1E03B4: Revisão</title>
-      <link>https://archive.org/details/somdomundot1e03</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e03/SOM%20DO%20MUNDO%20-%20T1E03%20-%20B4%20-%20REVISAO.mp3" length="56727961" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e03b4</guid>
-      <pubDate>Sun, 25 Jan 2026 13:27:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
+		<item>
+			<title>Som do Mundo - T1E04B02: Charm of Finches, Roberto Bach</title>
+			<link>http://radio.distintivoblue.com/2026/01/som-do-mundo-t1e04-29012026.html</link>
+			<pubDate>Sun, 01 Feb 2026 13:20:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e04b02</guid>
+			<description>Segundo bloco com as irmãs CHARM OF FINCHES (Austrália) e o cantador ROBERTO BACH (Brasil).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B2%20FINCHES%2BBACH.mp3" length="57461964" type="audio/mpeg"/>
+			<itunes:duration>0:29:55</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 
-    <item>
-      <title>Som do Mundo - T1E02B1: Mandili &amp; Molchat</title>
-      <link>https://archive.org/details/somdomundot1e02</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e02/SOM%20DO%20MUNDO%20-%20T1E02%20-%20B1%20-%20INICIO-MANDILI_MOLCHAT.mp3" length="57461964" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e02b1</guid>
-      <pubDate>Sun, 21 Dec 2025 12:00:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Som do Mundo - T1E02B2: Nyolo &amp; Gold</title>
-      <link>https://archive.org/details/somdomundot1e02</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e02/SOM%20DO%20MUNDO%20-%20T1E02%20-%20B2%20-%20SALLY_ALICE.mp3" length="52533657" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e02b2</guid>
-      <pubDate>Sun, 21 Dec 2025 11:59:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Som do Mundo - T1E02B3: Humano &amp; Varisco</title>
-      <link>https://archive.org/details/somdomundot1e02</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e02/SOM%20DO%20MUNDO%20-%20T1E02%20-%20B3%20-%20COLOR_VARISCO.mp3" length="61236838" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e02b3</guid>
-      <pubDate>Sun, 21 Dec 2025 11:58:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Som do Mundo - T1E02B4: Revisão</title>
-      <link>https://archive.org/details/somdomundot1e02</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e02/SOM%20DO%20MUNDO%20-%20T1E02%20-%20B4%20-%20REVISAO.mp3" length="59034828" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e02b4</guid>
-      <pubDate>Sun, 21 Dec 2025 11:57:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
+		<item>
+			<title>Som do Mundo - T1E04B03: Patato, Blackberry Smoke</title>
+			<link>http://radio.distintivoblue.com/2026/01/som-do-mundo-t1e04-29012026.html</link>
+			<pubDate>Sun, 01 Feb 2026 13:10:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e04b03</guid>
+			<description>Terceiro bloco com o percussionista PATATO (Cuba) e o southern rock do BLACKBERRY SMOKE (EUA).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B3%20PATATO%2BBLACKBERRY.mp3" length="73715220" type="audio/mpeg"/>
+			<itunes:duration>0:38:23</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 
-    <item>
-      <title>Som do Mundo - T1E01B1: Project Trio &amp; Van Gogh</title>
-      <link>https://archive.org/details/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B1%20-%20INICIO.mp3" length="47919923" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e01b1</guid>
-      <pubDate>Sun, 07 Dec 2025 13:30:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Som do Mundo - T1E01B2: Benjamin &amp; Kanno</title>
-      <link>https://archive.org/details/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko</link>
-      <enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B2%20-%20MOONLIGHT%20E%20YOKO.mp3" length="58825113" type="audio/mpeg"/>
-      <guid isPermaLink="false">sdm-t1e01b2</guid>
-      <pubDate>Sun, 07 Dec 2025 13:29:00 -0300</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-  </channel>
+		<item>
+			<title>Som do Mundo - T1E04B04: Hora da Revisão</title>
+			<link>http://radio.distintivoblue.com/2026/01/som-do-mundo-t1e04-29012026.html</link>
+			<pubDate>Sun, 01 Feb 2026 13:00:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e04b04</guid>
+			<description>Quarto bloco: Hora da Revisão.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B4%20REVISAO.mp3" length="71303168" type="audio/mpeg"/>
+			<itunes:duration>0:37:07</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E03B01: Fishmans &amp; Nouvelle Vague</title>
+			<link>http://radio.distintivoblue.com/2026/01/som-do-mundo-t1e03-22012026.html</link>
+			<pubDate>Sun, 25 Jan 2026 13:30:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e03b01</guid>
+			<description>Viagem musical com Fishmans (Japão) e Nouvelle Vague (França).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e03/SOM%20DO%20MUNDO%20-%20T1E03%20-%20B1%20-%20INICIO.mp3" length="69000000" type="audio/mpeg"/>
+			<itunes:duration>0:35:55</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E03B02: Sixto Rodriguez &amp; Yma Sumac</title>
+			<link>http://radio.distintivoblue.com/2026/01/som-do-mundo-t1e03-22012026.html</link>
+			<pubDate>Sun, 25 Jan 2026 13:20:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e03b02</guid>
+			<description>Sixto Rodriguez (EUA) e Yma Sumac (Peru).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e03/SOM%20DO%20MUNDO%20-%20T1E03%20-%20B2%20-%20RODRIGUEZ%2BSUMAC.mp3" length="53267660" type="audio/mpeg"/>
+			<itunes:duration>0:27:45</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E03B03: Johnny Trouble &amp; Hillbilly Rawhide</title>
+			<link>http://radio.distintivoblue.com/2026/01/som-do-mundo-t1e03-22012026.html</link>
+			<pubDate>Sun, 25 Jan 2026 13:10:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e03b03</guid>
+			<description>Johnny Trouble (Alemanha) e Hillbilly Rawhide (Brasil).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e03/SOM%20DO%20MUNDO%20-%20T1E03%20-%20B3%20-%20TROUBLE%2BRAWHIDE.mp3" length="49807360" type="audio/mpeg"/>
+			<itunes:duration>0:25:57</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E03B04: Revisão</title>
+			<link>http://radio.distintivoblue.com/2026/01/som-do-mundo-t1e03-22012026.html</link>
+			<pubDate>Sun, 25 Jan 2026 13:00:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e03b04</guid>
+			<description>Quarto bloco: Revisão T1E03.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e03/SOM%20DO%20MUNDO%20-%20T1E03%20-%20B4%20-%20REVISAO.mp3" length="56727961" type="audio/mpeg"/>
+			<itunes:duration>0:29:34</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E02B01: Trio Mandili e Molchat Doma</title>
+			<link>http://radio.distintivoblue.com/2025/12/somdomundo-t1e02.html</link>
+			<pubDate>Sun, 21 Dec 2025 12:00:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e02b01</guid>
+			<description>Trio Mandili (Georgia) e Molchat Doma (Belarus).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e02/SOM%20DO%20MUNDO%20-%20T1E02%20-%20B1%20-%20INICIO-MANDILI_MOLCHAT.mp3" length="57461964" type="audio/mpeg"/>
+			<itunes:duration>0:29:56</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E02B02: Sally Nyolo e Alice Gold</title>
+			<link>http://radio.distintivoblue.com/2025/12/somdomundo-t1e02.html</link>
+			<pubDate>Sun, 21 Dec 2025 11:50:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e02b02</guid>
+			<description>Sally Nyolo (Camarões) e Alice Gold (Inglaterra).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e02/SOM%20DO%20MUNDO%20-%20T1E02%20-%20B2%20-%20SALLY_ALICE.mp3" length="52533657" type="audio/mpeg"/>
+			<itunes:duration>0:27:22</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E02B03: Color Humano e Cristiano Varisco</title>
+			<link>http://radio.distintivoblue.com/2025/12/somdomundo-t1e02.html</link>
+			<pubDate>Sun, 21 Dec 2025 11:40:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e02b03</guid>
+			<description>Color Humano (Argentina) e Cristiano Varisco (Brasil).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e02/SOM%20DO%20MUNDO%20-%20T1E02%20-%20B3%20-%20COLOR_VARISCO.mp3" length="61236838" type="audio/mpeg"/>
+			<itunes:duration>0:31:53</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E02B04: Revisão</title>
+			<link>http://radio.distintivoblue.com/2025/12/somdomundo-t1e02.html</link>
+			<pubDate>Sun, 21 Dec 2025 11:30:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e02b04</guid>
+			<description>Quarto bloco: Revisão T1E02.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e02/SOM%20DO%20MUNDO%20-%20T1E02%20-%20B4%20-%20REVISAO.mp3" length="59034828" type="audio/mpeg"/>
+			<itunes:duration>0:30:43</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E01B01: Project Trio, La Oreja de Van Gogh</title>
+			<link>http://radio.distintivoblue.com/2025/12/som-do-mundo-t1e01-04122025.html</link>
+			<pubDate>Sun, 07 Dec 2025 13:30:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e01b01</guid>
+			<description>Estreia de SOM DO MUNDO: Project Trio e La Oreja de Van Gogh.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B1%20-%20INICIO.mp3" length="47919923" type="audio/mpeg"/>
+			<itunes:duration>0:24:58</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E01B02: Moonlight Benjamin, Yoko Kanno</title>
+			<link>http://radio.distintivoblue.com/2025/12/som-do-mundo-t1e01-04122025.html</link>
+			<pubDate>Sun, 07 Dec 2025 13:20:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e01b02</guid>
+			<description>Moonlight Benjamin e Yoko Kanno.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B2%20-%20MOONLIGHT%20E%20YOKO.mp3" length="58825113" type="audio/mpeg"/>
+			<itunes:duration>0:30:36</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E01B03: Pata de Elefante, Paris Combo</title>
+			<link>http://radio.distintivoblue.com/2025/12/som-do-mundo-t1e01-04122025.html</link>
+			<pubDate>Sun, 07 Dec 2025 13:10:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e01b03</guid>
+			<description>Pata de Elefante e Paris Combo.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B3%20-%20ELEFANTE%20E%20PARIS.mp3" length="55000000" type="audio/mpeg"/>
+			<itunes:duration>0:24:56</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E01B04: Revisão</title>
+			<link>http://radio.distintivoblue.com/2025/12/som-do-mundo-t1e01-04122025.html</link>
+			<pubDate>Sun, 07 Dec 2025 13:00:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e01b04</guid>
+			<description>Quarto bloco: Revisão T1E01.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B4%20-%20ENCERRAMENTO.mp3" length="52000000" type="audio/mpeg"/>
+			<itunes:duration>0:28:39</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+	</channel>
 </rss>
