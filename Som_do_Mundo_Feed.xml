@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Som do Mundo | UESB FM</title>
-        <description>Programa de rádio Som do Mundo, transmitido pela UESB FM, explorando as sonoridades globais.</description>
+        <description>Programa de rádio Som do Mundo, transmitido pela UESB FM, explorando sonoridades globais.</description>
         <link>https://radio.distintivoblue.com</link>
         <language>pt-br</language>
         <itunes:author>Plácido Oliveira</itunes:author>
@@ -56,6 +56,14 @@
             <guid isPermaLink="false">somdomundo-t1e03b01</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
+        <item>
+            <title>Som do Mundo - T1E03B02: Sixto Rodriguez &amp; Yma Sumac</title>
+            <link>https://archive.org/details/somdomundot1e03</link>
+            <pubDate>Sun, 25 Jan 2026 13:29:00 -0300</pubDate>
+            <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e03/SOM%20DO%20MUNDO%20-%20T1E03%20-%20B2%20-%20RODRIGUEZ%2BSUMAC.mp3" length="53267660" type="audio/mpeg"/>
+            <guid isPermaLink="false">somdomundo-t1e03b02</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
 
         <item>
             <title>Som do Mundo - T1E02B01: Trio Mandili e Molchat Doma</title>
@@ -74,5 +82,3 @@
             <guid isPermaLink="false">somdomundo-t1e01b01</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
-    </channel>
-</rss>
