@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Som do Mundo | UESB FM</title>
-        <description>Programa de rádio Som do Mundo, transmitido pela UESB FM.</description>
+        <description>Programa de rádio Som do Mundo, transmitido pela UESB FM, explorando as sonoridades globais.</description>
         <link>https://radio.distintivoblue.com</link>
         <language>pt-br</language>
         <itunes:author>Plácido Oliveira</itunes:author>
@@ -19,7 +19,7 @@
             <title>Som do Mundo - T1E04B01: Xime Monzón, Jack Broadbent</title>
             <link>https://archive.org/details/somdomundo-t-1-e-4-b-3-patato-blackberry</link>
             <pubDate>Sun, 01 Feb 2026 09:10:00 -0300</pubDate>
-            <enclosure url="https://media.blubrry.com/3956651/ia600409.us.archive.org/22/items/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B1%20MONZON%2BBROADBENT.mp3" length="59664691" type="audio/mpeg"/>
+            <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B1%20MONZON%2BBROADBENT.mp3" length="59663677" type="audio/mpeg"/>
             <guid isPermaLink="false">somdomundo-t1e04b01</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
@@ -27,7 +27,7 @@
             <title>Som do Mundo - T1E04B02: Charm of Finches, Roberto Bach</title>
             <link>https://archive.org/details/somdomundo-t-1-e-4-b-3-patato-blackberry</link>
             <pubDate>Sun, 01 Feb 2026 09:09:00 -0300</pubDate>
-            <enclosure url="https://media.blubrry.com/3956651/ia600409.us.archive.org/22/items/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B2%20FINCHES%2BBACH.mp3" length="57461964" type="audio/mpeg"/>
+            <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B2%20FINCHES%2BBACH.mp3" length="57461964" type="audio/mpeg"/>
             <guid isPermaLink="false">somdomundo-t1e04b02</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
@@ -35,7 +35,7 @@
             <title>Som do Mundo - T1E04B03: Patato, Blackberry Smoke</title>
             <link>https://archive.org/details/somdomundo-t-1-e-4-b-3-patato-blackberry</link>
             <pubDate>Sun, 01 Feb 2026 09:08:00 -0300</pubDate>
-            <enclosure url="https://media.blubrry.com/3956651/ia800409.us.archive.org/22/items/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B3%20PATATO%2BBLACKBERRY.mp3" length="73715220" type="audio/mpeg"/>
+            <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-4-b-3-patato-blackberry/SOMDOMUNDO%20T1E4%20B3%20PATATO%2BBLACKBERRY.mp3" length="73715220" type="audio/mpeg"/>
             <guid isPermaLink="false">somdomundo-t1e04b03</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
@@ -52,7 +52,7 @@
             <title>Som do Mundo - T1E03B01: Fishmans &amp; Nouvelle Vague</title>
             <link>https://archive.org/details/somdomundot1e03</link>
             <pubDate>Sun, 25 Jan 2026 13:30:00 -0300</pubDate>
-            <enclosure url="https://media.blubrry.com/3956651/ia800601.us.archive.org/10/items/somdomundot1e03/SOM%20DO%20MUNDO%20-%20T1E03%20-%20B1%20-%20INICIO.mp3" length="69000000" type="audio/mpeg"/>
+            <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e03/SOM%20DO%20MUNDO%20-%20T1E03%20-%20B1%20-%20INICIO.mp3" length="69000000" type="audio/mpeg"/>
             <guid isPermaLink="false">somdomundo-t1e03b01</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
@@ -105,29 +105,13 @@
             <guid isPermaLink="false">somdomundo-t1e02b03</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
-        <item>
-            <title>Som do Mundo - T1E02B04: Revisão</title>
-            <link>https://archive.org/details/somdomundot1e02</link>
-            <pubDate>Sun, 21 Dec 2025 11:57:00 -0300</pubDate>
-            <enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundot1e02/SOM%20DO%20MUNDO%20-%20T1E02%20-%20B4%20-%20REVISAO.mp3" length="59034828" type="audio/mpeg"/>
-            <guid isPermaLink="false">somdomundo-t1e02b04</guid>
-            <itunes:explicit>no</itunes:explicit>
-        </item>
 
         <item>
             <title>Som do Mundo - T1E01B01: Project Trio, La Oreja de Van Gogh</title>
             <link>https://archive.org/details/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko</link>
             <pubDate>Sun, 07 Dec 2025 13:30:00 -0300</pubDate>
-            <enclosure url="https://media.blubrry.com/3956651/dn721508.ca.archive.org/0/items/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B1%20-%20INICIO.mp3" length="47919923" type="audio/mpeg"/>
+            <enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B1%20-%20INICIO.mp3" length="47919923" type="audio/mpeg"/>
             <guid isPermaLink="false">somdomundo-t1e01b01</guid>
-            <itunes:explicit>no</itunes:explicit>
-        </item>
-        <item>
-            <title>Som do Mundo - T1E01B02: Moonlight Benjamin, Yoko Kanno</title>
-            <link>https://archive.org/details/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko</link>
-            <pubDate>Sun, 07 Dec 2025 13:29:00 -0300</pubDate>
-            <enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-01-b-2-moonlight-e-yoko/SOM%20DO%20MUNDO%20-%20T1E01%20-%20B2%20-%20MOONLIGHT%20E%20YOKO.mp3" length="58825113" type="audio/mpeg"/>
-            <guid isPermaLink="false">somdomundo-t1e01b02</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
