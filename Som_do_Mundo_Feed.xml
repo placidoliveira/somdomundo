@@ -25,7 +25,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
 			<itunes:name>Plácido Oliveira</itunes:name>
 			<itunes:email>radio@distintivoblue.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="https://raw.githubusercontent.com/placidoliveira/somdomundo/refs/heads/main/Somdomundologo.png"/>
+<itunes:image href="https://raw.githubusercontent.com/placidoliveira/somdomundo/main/Somdomundologo.png"/>
 		
 		<itunes:category text="Music">
 			<itunes:category text="Music History"/>
