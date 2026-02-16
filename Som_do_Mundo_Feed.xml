@@ -31,19 +31,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
 			<itunes:category text="Music History"/>
 		</itunes:category>
 
-Para adicionar o **Episódio 06** mantendo a integridade do seu feed e a ordem correta de reprodução, utilize o código abaixo.
 
-Conforme solicitado, utilizei o horário de **12:00 para o Bloco 1** e horários anteriores para os demais, garantindo que o Bloco 1 apareça no topo.
-
-### Instruções para Inserção:
-
-1. **Localização:** No seu arquivo XML, localize a tag de fechamento do episódio anterior (`` ou o item do Bloco 1 do E05).
-2. **Ação:** Cole o bloco de código abaixo **acima** de todos os episódios antigos.
-3. **Data Global:** No topo do arquivo, atualize a tag `<pubDate>` geral para `Sun, 22 Feb 2026 12:00:00 -0300`.
-
----
-
-```xml
 		<item>
 			<title>Som do Mundo - T1E06B01: Maromaro &amp; Funes</title>
 			<link>http://radio.distintivoblue.com/2026/02/som-do-mundo-t1e06-19022026.html</link>
