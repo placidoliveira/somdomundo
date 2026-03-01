@@ -14,7 +14,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
 		<description>"Som do Mundo" é um programa semanal com 2h de duração, apresentando musicalidades incomuns ao rádio convencional, transmitido pela UESB FM, produzido e apresentado pelo músico e historiador Plácido Oliveira.</description>
 		<language>pt-br</language>
 		<copyright>Copyright @ 2026 Plácido Oliveira</copyright>
-		<pubDate>Sun, 08 Feb 2026 11:30:00 -0300</pubDate>
+		<pubDate>Sun, 01 Mar 2026 12:00:00 -0300</pubDate>
 		<atom:link href="https://placidoliveira.github.io/somdomundo/Som_do_Mundo_Feed.xml" rel="self" type="application/rss+xml"/>
 		
 		<itunes:author>Plácido Oliveira</itunes:author>
@@ -32,6 +32,49 @@ xmlns:media="http://search.yahoo.com/mrss/">
 		</itunes:category>
 
 
+		<item>
+			<title>Som do Mundo - T1E07B01: Dur-Dur Band &amp; Os Seis em Ponto</title>
+			<link>http://radio.distintivoblue.com/2026/02/som-do-mundo-t1e07-26022026.html</link>
+			<pubDate>Sun, 01 Mar 2026 12:00:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e07b01</guid>
+			<description>"Se você quer tocar, você precisa amar." (Louis Armstrong). Iniciamos a viagem com DUR-DUR BAND (Somália) e OS SEIS EM PONTO (Brasil). Apresentação: Plácido Oliveira.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-7-quad/SOMDOMUNDO%20T1E7%20-%20B1%20DURDUR-SEISEMPONTO.mp3" length="62600642" type="audio/mpeg"/>
+			<itunes:duration>0:32:35</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E07B02: Green Curtain &amp; Gin Wigmore</title>
+			<link>http://radio.distintivoblue.com/2026/02/som-do-mundo-t1e07-26022026.html</link>
+			<pubDate>Sun, 01 Mar 2026 11:50:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e07b02</guid>
+			<description>Segundo bloco com as sonoridades de GREEN CURTAIN (Japão) e a voz de GIN WIGMORE (Nova Zelândia).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-7-quad/SOMDOMUNDO%20T1E7%20-%20B2%20CURTAIN_WIGMORE.mp3" length="57566822" type="audio/mpeg"/>
+			<itunes:duration>0:29:59</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E07B03: Baustelle &amp; Gaiteiros de Lisboa</title>
+			<link>http://radio.distintivoblue.com/2026/02/som-do-mundo-t1e07-26022026.html</link>
+			<pubDate>Sun, 01 Mar 2026 11:40:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e07b03</guid>
+			<description>Terceiro bloco apresentando a banda BAUSTELLE (Itália) e a inventividade dos GAITEIROS DE LISBOA (Portugal).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-7-quad/SOMDOMUNDO%20T1E7%20-%20B3%20BAUSTELLE_GAITEIROS.mp3" length="56937021" type="audio/mpeg"/>
+			<itunes:duration>0:29:38</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E07B04: Hora da Revisão</title>
+			<link>http://radio.distintivoblue.com/2026/02/som-do-mundo-t1e07-26022026.html</link>
+			<pubDate>Sun, 01 Mar 2026 11:30:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e07b04</guid>
+			<description>Quarto bloco: Hora da Revisão do Episódio 07.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-t-1-e-7-quad/SOMDOMUNDO%20T1E7%20-%20B4%20HORADAREVISAO.mp3" length="60293120" type="audio/mpeg"/>
+			<itunes:duration>0:31:24</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Som do Mundo - T1E06B01: Maromaro &amp; Funes</title>
 			<link>http://radio.distintivoblue.com/2026/02/som-do-mundo-t1e06-19022026.html</link>
