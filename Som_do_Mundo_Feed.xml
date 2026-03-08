@@ -14,7 +14,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
 		<description>"Som do Mundo" é um programa semanal com 2h de duração, apresentando musicalidades incomuns ao rádio convencional, transmitido pela UESB FM, produzido e apresentado pelo músico e historiador Plácido Oliveira.</description>
 		<language>pt-br</language>
 		<copyright>Copyright @ 2026 Plácido Oliveira</copyright>
-		<pubDate>Sun, 01 Mar 2026 12:00:00 -0300</pubDate>
+		<pubDate>Sun, 08 Mar 2026 12:00:00 -0300</pubDate>
 		<atom:link href="https://placidoliveira.github.io/somdomundo/Som_do_Mundo_Feed.xml" rel="self" type="application/rss+xml"/>
 		
 		<itunes:author>Plácido Oliveira</itunes:author>
@@ -31,7 +31,49 @@ xmlns:media="http://search.yahoo.com/mrss/">
 			<itunes:category text="Music History"/>
 		</itunes:category>
 
+<item>
+			<title>Som do Mundo - T1E08B01: Alice Animal &amp; Madeleine Peyroux</title>
+			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e08-05032026.html</link>
+			<pubDate>Sun, 08 Mar 2026 12:00:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e08b01</guid>
+			<description>"Como você pode ser um artista e não refletir os tempos?" (Nina Simone). Iniciamos com ALICE ANIMAL (França) e MADELEINE PEYROUX (EUA). Apresentação: Plácido Oliveira.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-08-sto/SOMDOMUNDO%20T1E8%20-%20B1%20ANIMAL_PEYROUX.mp3" length="50331648" type="audio/mpeg"/>
+			<itunes:duration>0:26:13</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 
+		<item>
+			<title>Som do Mundo - T1E08B02: Rosalía &amp; Alena Apina</title>
+			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e08-05032026.html</link>
+			<pubDate>Sun, 08 Mar 2026 11:50:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e08b02</guid>
+			<description>Segundo bloco com o fenômeno ROSALÍA (Espanha) e o clássico pop de АЛЁНА АПИНА (Rússia).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-08-sto/SOMDOMUNDO%20T1E8%20-%20B2%20ROSALIA-APINA.mp3" length="60397977" type="audio/mpeg"/>
+			<itunes:duration>0:31:28</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E08B03: Demoiselle &amp; Sue Foley</title>
+			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e08-05032026.html</link>
+			<pubDate>Sun, 08 Mar 2026 11:40:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e08b03</guid>
+			<description>Terceiro bloco com a banda DEMOISELLE (Brasil) e o blues de SUE FOLEY (Canadá).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-08-sto/SOMDOMUNDO%20T1E8%20-%20B3%20DEMOISELLE-SUEFOLEY.mp3" length="61865984" type="audio/mpeg"/>
+			<itunes:duration>0:32:12</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E08B04: Hora da Revisão</title>
+			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e08-05032026.html</link>
+			<pubDate>Sun, 08 Mar 2026 11:30:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e08b04</guid>
+			<description>Quarto bloco: Hora da Revisão do Episódio 08.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/somdomundo-08-sto/SOMDOMUNDO%20T1E8%20-%20B4%20HORADAREVISAO.mp3" length="62914560" type="audio/mpeg"/>
+			<itunes:duration>0:32:44</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 		<item>
 			<title>Som do Mundo - T1E07B01: Dur-Dur Band &amp; Os Seis em Ponto</title>
 			<link>http://radio.distintivoblue.com/2026/02/som-do-mundo-t1e07-26022026.html</link>
