@@ -14,7 +14,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
 		<description>"Som do Mundo" é um programa semanal com 2h de duração, apresentando musicalidades incomuns ao rádio convencional, transmitido pela UESB FM, produzido e apresentado pelo músico e historiador Plácido Oliveira.</description>
 		<language>pt-br</language>
 		<copyright>Copyright @ 2026 Plácido Oliveira</copyright>
-		<pubDate>Sun, 08 Mar 2026 12:00:00 -0300</pubDate>
+		<pubDate>Sun, 15 Mar 2026 12:00:00 -0300</pubDate>
 		<atom:link href="https://placidoliveira.github.io/somdomundo/Som_do_Mundo_Feed.xml" rel="self" type="application/rss+xml"/>
 		
 		<itunes:author>Plácido Oliveira</itunes:author>
@@ -31,6 +31,49 @@ xmlns:media="http://search.yahoo.com/mrss/">
 			<itunes:category text="Music History"/>
 		</itunes:category>
 
+		<item>
+			<title>Som do Mundo - T1E09B01: Especial Games - Raphaël Gesqua &amp; SNK</title>
+			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e09-12032026.html</link>
+			<pubDate>Sun, 15 Mar 2026 12:00:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e09b01</guid>
+			<description>"A música em um jogo existe para reforçar a experiência" (Koji Kondo). Especial trilhas de games: Moto Racer e The King of Fighters' 96. Apresentação: Plácido Oliveira.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/especial-games-sto/SOM%20DO%20MUNDO%20T1E9%20B1%20-%20GESQUA-SNK.mp3" length="70569164" type="audio/mpeg"/>
+			<itunes:duration>0:36:46</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E09B02: Filmharmonic Orchestra &amp; Kunning Fox</title>
+			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e09-12032026.html</link>
+			<pubDate>Sun, 15 Mar 2026 11:50:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e09b02</guid>
+			<description>Segundo bloco com as trilhas de Sonic the Hedgehog e Pokémon Silver/Gold. Orquestra Filarmônica de Praga e Kunning Fox.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/especial-games-sto/SOM%20DO%20MUNDO%20T1E9%20B2%20FILHARMONIC-KUNNINGFOX.mp3" length="55889100" type="audio/mpeg"/>
+			<itunes:duration>0:29:14</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E09B03: Tenchu &amp; Street Fighter IV</title>
+			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e09-12032026.html</link>
+			<pubDate>Sun, 15 Mar 2026 11:40:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e09b03</guid>
+			<description>Terceiro bloco dedicado às composições de Noriyuki Asakura (Tenchu) e Hideyuki Fukasawa (Street Fighter IV).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/especial-games-sto/SOM%20DO%20MUNDO%20T1E9%20B3%20TENCHU-SF4.mp3" length="58405683" type="audio/mpeg"/>
+			<itunes:duration>0:30:34</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E09B04: Hora da Revisão</title>
+			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e09-12032026.html</link>
+			<pubDate>Sun, 15 Mar 2026 11:30:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e09b04</guid>
+			<description>Quarto bloco: Hora da Revisão.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/especial-games-sto/SOM%20DO%20MUNDO%20T1E9%20B4%20-%20REVISAO.mp3" length="53057945" type="audio/mpeg"/>
+			<itunes:duration>0:27:38</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
 <item>
 			<title>Som do Mundo - T1E08B01: Alice Animal &amp; Madeleine Peyroux</title>
 			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e08-05032026.html</link>
