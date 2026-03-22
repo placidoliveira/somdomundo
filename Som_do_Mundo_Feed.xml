@@ -31,6 +31,51 @@ xmlns:media="http://search.yahoo.com/mrss/">
 			<itunes:category text="Music History"/>
 		</itunes:category>
 
+		
+		<item>
+			<title>Som do Mundo - T1E10B01: Revisão Especial - Parte I</title>
+			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e10-19032026.html</link>
+			<pubDate>Sun, 22 Mar 2026 12:00:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e10b01</guid>
+			<description>"Quando crio minha música me sinto um instrumento da natureza." (Michael Jackson). Iniciamos a revisão dos últimos quatro episódios, de Alena Apina a Kunning Fox. Apresentação: Plácido Oliveira.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/especial-2-sto/SOM%20DO%20MUNDO%20T1E10%20B1%20-%20REVISAOESPECIAL.mp3" length="68891443" type="audio/mpeg"/>
+			<itunes:duration>0:35:54</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E10B02: Revisão Especial - Parte II</title>
+			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e10-19032026.html</link>
+			<pubDate>Sun, 22 Mar 2026 11:50:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e10b02</guid>
+			<description>Segundo bloco da revisão especial. Uma jornada por sons da Somália, Japão, Brasil e muito mais.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/especial-2-sto/SOM%20DO%20MUNDO%20T1E10%20B2%20-%20REVISAOESPECIAL.mp3" length="53582233" type="audio/mpeg"/>
+			<itunes:duration>0:27:56</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E10B03: Revisão Especial - Parte III</title>
+			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e10-19032026.html</link>
+			<pubDate>Sun, 22 Mar 2026 11:40:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e10b03</guid>
+			<description>Terceiro bloco da nossa retrospectiva musical global.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/especial-2-sto/SOM%20DO%20MUNDO%20T1E10%20B3%20-%20REVISAOESPECIAL.mp3" length="45508198" type="audio/mpeg"/>
+			<itunes:duration>0:23:42</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E10B04: Revisão Especial - Parte IV</title>
+			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e10-19032026.html</link>
+			<pubDate>Sun, 22 Mar 2026 11:30:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e10b04</guid>
+			<description>Finalizando a revisão especial do Episódio 10.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/especial-2-sto/SOM%20DO%20MUNDO%20T1E10%20B4%20-%20REVISAOESPECIAL.mp3" length="63753420" type="audio/mpeg"/>
+			<itunes:duration>0:33:12</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+	
 		<item>
 			<title>Som do Mundo - T1E09B01: Especial Games - Raphaël Gesqua &amp; SNK</title>
 			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e09-12032026.html</link>
