@@ -14,7 +14,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
 		<description>"Som do Mundo" é um programa semanal com 2h de duração, apresentando musicalidades incomuns ao rádio convencional, transmitido pela UESB FM, produzido e apresentado pelo músico e historiador Plácido Oliveira.</description>
 		<language>pt-br</language>
 		<copyright>Copyright @ 2026 Plácido Oliveira</copyright>
-		<pubDate>Sun, 22 Mar 2026 12:00:00 -0300</pubDate>
+		<pubDate>Sun, 05 Apr 2026 12:00:00 -0300</pubDate>
 		<atom:link href="https://placidoliveira.github.io/somdomundo/Som_do_Mundo_Feed.xml" rel="self" type="application/rss+xml"/>
 		
 		<itunes:author>Plácido Oliveira</itunes:author>
@@ -32,6 +32,50 @@ xmlns:media="http://search.yahoo.com/mrss/">
 		</itunes:category>
 
 		
+<item>
+			<title>Som do Mundo - T1E11B01: Angine de Poitrine &amp; Wi Fi Kills</title>
+			<link>http://radio.distintivoblue.com/2026/04/som-do-mundo-t1e11-02042026.html</link>
+			<pubDate>Sun, 05 Apr 2026 12:00:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e11b01</guid>
+			<description>"Sem música, o tempo é apenas um monte de prazos de produção chatos..." (Frank Zappa). Iniciamos com ANGINE DE POITRINE (Canadá) e WI FI KILLS (Brasil). Apresentação: Plácido Oliveira.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-11-sto/SOM%20DO%20MUNDO%20T1E11%20-%20BLOCO%201%20ANGINE_WIFIKILLS.mp3" length="70988595" type="audio/mpeg"/>
+			<itunes:duration>0:36:57</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E11B02: Fever Ray &amp; Jan Harbeck Quartet</title>
+			<link>http://radio.distintivoblue.com/2026/04/som-do-mundo-t1e11-02042026.html</link>
+			<pubDate>Sun, 05 Apr 2026 11:50:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e11b02</guid>
+			<description>Segundo bloco com a atmosfera de FEVER RAY (Suécia) e o jazz do JAN HARBECK QUARTET (Dinamarca).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-11-sto/SOM%20DO%20MUNDO%20T1E11%20-%20BLOCO%202%20FEVERRAY_IANHARBECK.mp3" length="74763468" type="audio/mpeg"/>
+			<itunes:duration>0:38:56</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E11B03: Irma &amp; The Eagle Rock Gospel Singers</title>
+			<link>http://radio.distintivoblue.com/2026/04/som-do-mundo-t1e11-02042026.html</link>
+			<pubDate>Sun, 05 Apr 2026 11:40:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e11b03</guid>
+			<description>Terceiro bloco com o talento de IRMA (Camarões) e a energia dos THE EAGLE ROCK GOSPEL SINGERS (EUA).</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-11-sto/SOM%20DO%20MUNDO%20T1E11%20-%20BLOCO%203%20IRMA_EAGLEROCK.mp3" length="48968499" type="audio/mpeg"/>
+			<itunes:duration>0:25:30</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Som do Mundo - T1E11B04: Hora da Revisão</title>
+			<link>http://radio.distintivoblue.com/2026/04/som-do-mundo-t1e11-02042026.html</link>
+			<pubDate>Sun, 05 Apr 2026 11:30:00 -0300</pubDate>
+			<guid isPermaLink="false">somdomundo-t1e11b04</guid>
+			<description>Quarto bloco: Hora da Revisão do Episódio 11.</description>
+			<enclosure url="https://media.blubrry.com/3956651/archive.org/download/som-do-mundo-t-1-e-11-sto/SOM%20DO%20MUNDO%20T1E11%20-%20BLOCO%204%20REVISAO.mp3" length="69521244" type="audio/mpeg"/>
+			<itunes:duration>0:36:11</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
 		<item>
 			<title>Som do Mundo - T1E10B01: Revisão Especial - Parte I</title>
 			<link>http://radio.distintivoblue.com/2026/03/som-do-mundo-t1e10-19032026.html</link>
