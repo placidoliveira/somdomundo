@@ -31,7 +31,56 @@ xmlns:media="http://search.yahoo.com/mrss/">
 			<itunes:category text="Music History"/>
 		</itunes:category>
 
-		
+
+		<!-- INÍCIO T2E01 - BLOCO 1 -->
+<item>
+  <title>Som do Mundo - T2E01 - Bloco 1: Hermanos Gutiérrez e The Fairfield Four</title>
+  <description><![CDATA[No primeiro bloco da 2ª Temporada, apresentamos o som instrumental de Hermanos Gutiérrez e a harmonia vocal marcante do grupo gospel The Fairfield Four.]]></description>
+  <pubDate>Thu, 17 Sep 2026 16:53:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E1B1%20-%20GUTIERREZ_FAIRFIELD.mp3" length="58195968" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E1B1%20-%20GUTIERREZ_FAIRFIELD.mp3</guid>
+  <itunes:duration>30:20</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>1</itunes:episode>
+</item>
+<!-- FIM T2E01 - BLOCO 1 -->
+
+<!-- INÍCIO T2E01 - BLOCO 2 -->
+<item>
+  <title>Som do Mundo - T2E01 - Bloco 2: KiWi e Jaron Camp</title>
+  <description><![CDATA[No segundo bloco da 2ª Temporada, mergulhamos nas sonoridades de KiWi e na musicalidade de Jaron Camp.]]></description>
+  <pubDate>Thu, 17 Sep 2026 18:55:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E1B2%20-%20KIWI_JARON.mp3" length="51589939" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E1B2%20-%20KIWI_JARON.mp3</guid>
+  <itunes:duration>26:50</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>2</itunes:episode>
+</item>
+<!-- FIM T2E01 - BLOCO 2 -->
+
+<!-- INÍCIO T2E01 - BLOCO 3 -->
+<item>
+  <title>Som do Mundo - T2E01 - Bloco 3: Habib Koité e Dóris Monteiro</title>
+  <description><![CDATA[No terceiro bloco da 2ª Temporada, trazemos o mestre do desert blues Habib Koité e a elegância da grande intérprete brasileira Dóris Monteiro.]]></description>
+  <pubDate>Thu, 17 Sep 2026 19:06:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E1B3%20-%20HABIB_DORIS.mp3" length="55155097" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E1B3%20-%20HABIB_DORIS.mp3</guid>
+  <itunes:duration>28:43</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>3</itunes:episode>
+</item>
+<!-- FIM T2E01 - BLOCO 4 -->
+<item>
+  <title>Som do Mundo - T2E01 - Bloco 4: Hora da Revisão</title>
+  <description><![CDATA[No quarto e último bloco da 2ª Temporada, trazemos a Hora da Revisão com uma seleção dos destaques e momentos marcantes do programa.]]></description>
+  <pubDate>Thu, 17 Sep 2026 19:19:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E1B4%20-%20REVISAO.mp3" length="63438848" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E1B4%20-%20REVISAO.mp3</guid>
+  <itunes:duration>33:02</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>4</itunes:episode>
+</item>
+<!-- FIM T2E01 - BLOCO 4 -->
 <item>
 			<title>Som do Mundo - T1E11B01: Angine de Poitrine &amp; Wi Fi Kills</title>
 			<link>http://radio.distintivoblue.com/2026/04/som-do-mundo-t1e11-02042026.html</link>
