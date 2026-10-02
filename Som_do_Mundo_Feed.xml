@@ -31,7 +31,108 @@ xmlns:media="http://search.yahoo.com/mrss/">
 			<itunes:category text="Music History"/>
 		</itunes:category>
 
+,<!-- INÍCIO T2E03 - BLOCO 1 -->
+<item>
+  <title>Som do Mundo - T2E03 - Bloco 1: Laborier e Babi</title>
+  <description><![CDATA[No primeiro bloco da 2ª Temporada - Episódio 03, apresentamos a sonoridade de Laborier e a musicalidade de Babi.]]></description>
+  <pubDate>Thu, 01 Oct 2026 09:47:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E3%20B1%20-%20LABORIER_BABI.mp3" length="63019417" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E3%20B1%20-%20LABORIER_BABI.mp3</guid>
+  <itunes:duration>32:50</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>1</itunes:episode>
+</item>
+<!-- FIM T2E03 - BLOCO 1 -->
 
+<!-- INÍCIO T2E03 - BLOCO 2 -->
+<item>
+  <title>Som do Mundo - T2E03 - Bloco 2: Baseballs e Scarpaci</title>
+  <description><![CDATA[No segundo bloco da 2ª Temporada - Episódio 03, mergulhamos nas apresentações de The Baseballs e Scarpaci.]]></description>
+  <pubDate>Fri, 02 Oct 2026 17:31:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E3%20B2%20-%20BASEBALLS_SCARPACI.mp3" length="60502835" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E3%20B2%20-%20BASEBALLS_SCARPACI.mp3</guid>
+  <itunes:duration>31:30</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>2</itunes:episode>
+</item>
+<!-- FIM T2E03 - BLOCO 2 -->
+
+<!-- INÍCIO T2E03 - BLOCO 3 -->
+<item>
+  <title>Som do Mundo - T2E03 - Bloco 3: Sakamoto e Merchant</title>
+  <description><![CDATA[No terceiro bloco da 2ª Temporada - Episódio 03, trazemos as obras de Ryuichi Sakamoto e Natalie Merchant.]]></description>
+  <pubDate>Fri, 02 Oct 2026 17:39:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E3%20B3%20-%20SAKAMOTO_MERCHANT.mp3" length="64801996" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E3%20B3%20-%20SAKAMOTO_MERCHANT.mp3</guid>
+  <itunes:duration>33:44</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>3</itunes:episode>
+</item>
+<!-- FIM T2E03 - BLOCO 3 -->
+
+<!-- INÍCIO T2E03 - BLOCO 4 -->
+<item>
+  <title>Som do Mundo - T2E03 - Bloco 4: Hora da Revisão</title>
+  <description><![CDATA[No quarto e último bloco da 2ª Temporada - Episódio 03, trazemos a Hora da Revisão com uma seleção dos destaques e momentos marcantes do programa.]]></description>
+  <pubDate>Thu, 01 Oct 2026 09:51:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E3B4%20-%20REVISAO.mp3" length="68052582" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E3B4%20-%20REVISAO.mp3</guid>
+  <itunes:duration>35:26</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>4</itunes:episode>
+</item>
+<!-- FIM T2E03 - BLOCO 4 -->
+		<!-- INÍCIO T2E02 - BLOCO 1 -->
+<item>
+  <title>Som do Mundo - T2E02 - Bloco 1: Hariharan e Los Compadres</title>
+  <description><![CDATA[En el primer bloque de la Temporada 2 - Episodio 02, presentamos las sonoridades de Hariharan y la música de Los Compadres.]]></description>
+  <pubDate>Thu, 24 Sep 2026 13:49:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E2%20B1%20-%20HARIHARAN_LOSCOMPADRES.mp3" length="74029465" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E2%20B1%20-%20HARIHARAN_LOSCOMPADRES.mp3</guid>
+  <itunes:duration>38:33</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>1</itunes:episode>
+</item>
+<!-- FIM T2E02 - BLOCO 1 -->
+
+<!-- INÍCIO T2E02 - BLOCO 2 -->
+<item>
+  <title>Som do Mundo - T2E02 - Bloco 2: Manu Chao e Vince Guaraldi</title>
+  <description><![CDATA[En el segundo bloque de la Temporada 2 - Episodio 02, exploramos la musicalidad de Manu Chao y las obras de Vince Guaraldi.]]></description>
+  <pubDate>Thu, 24 Sep 2026 14:39:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E2%20B2%20-%20MANUCHAO_VINCEGUARALDI.mp3" length="48549068" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E2%20B2%20-%20MANUCHAO_VINCEGUARALDI.mp3</guid>
+  <itunes:duration>25:18</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>2</itunes:episode>
+</item>
+<!-- FIM T2E02 - BLOCO 2 -->
+
+<!-- INÍCIO T2E02 - BLOCO 3 -->
+<item>
+  <title>Som do Mundo - T2E02 - Bloco 3: Bronncobily e Las Fokin Biches</title>
+  <description><![CDATA[En el tercer bloque de la Temporada 2 - Episodio 02, traemos el sonido de Bronncobily y el ritmo de Las Fokin Biches.]]></description>
+  <pubDate>Thu, 24 Sep 2026 14:51:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E2%20B3%20-%20BRONNCOBILY_LASFOKINBICHESI.mp3" length="58510131" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E2%20B3%20-%20BRONNCOBILY_LASFOKINBICHESI.mp3</guid>
+  <itunes:duration>30:28</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>3</itunes:episode>
+</item>
+<!-- FIM T2E02 - BLOCO 3 -->
+
+<!-- INÍCIO T2E02 - BLOCO 4 -->
+<item>
+  <title>Som do Mundo - T2E02 - Bloco 4: Hora da Revisão</title>
+  <description><![CDATA[En el cuarto bloque de la Temporada 2 - Episodio 02, presentamos la Hora de la Revisión con un repaso de los momentos destacados del programa.]]></description>
+  <pubDate>Thu, 24 Sep 2026 15:00:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E1%20B4%20-%20HORADAREVISAO.mp3" length="56413388" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E1%20B4%20-%20HORADAREVISAO.mp3</guid>
+  <itunes:duration>29:20</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>4</itunes:episode>
+</item>
+<!-- FIM T2E02 - BLOCO 4 -->
 		<!-- INÍCIO T2E01 - BLOCO 1 -->
 <item>
   <title>Som do Mundo - T2E01 - Bloco 1: Hermanos Gutiérrez e The Fairfield Four</title>
