@@ -31,7 +31,59 @@ xmlns:media="http://search.yahoo.com/mrss/">
 			<itunes:category text="Music History"/>
 		</itunes:category>
 
-,<!-- INÍCIO T2E03 - BLOCO 1 -->
+
+		<!-- INÍCIO T2E04 - BLOCO 1 -->
+<item>
+  <title>Som do Mundo - T2E04 - Bloco 1: Midpak e Bolbec</title>
+  <description><![CDATA[Na segunda temporada de SOM DO MUNDO, continuamos a nossa viagem musical, em companhia de: MIDPAK (EUA) e BOLBEC (França). Apresentação: Plácido Oliveira.]]></description>
+  <pubDate>Tue, 13 Oct 2026 12:00:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E4%20B1%20-%20MIDPAK_BOLBEC.mp3" length="49492787" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E4%20B1%20-%20MIDPAK_BOLBEC.mp3</guid>
+  <itunes:duration>0:25:43</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>1</itunes:episode>
+</item>
+<!-- FIM T2E04 - BLOCO 1 -->
+
+<!-- INÍCIO T2E04 - BLOCO 2 -->
+<item>
+  <title>Som do Mundo - T2E04 - Bloco 2: As Ganhadeiras de Itapuã e Bonga</title>
+  <description><![CDATA[Segundo bloco do episódio com o samba e ancestralidade de AS GANHADEIRAS DE ITAPUÃ (Brasil) e o semba inconfundível de BONGA (Angola).]]></description>
+  <pubDate>Tue, 13 Oct 2026 11:50:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E4%20B2%20-%20GANHADEIRAS_BONGA.mp3" length="57881395" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E4%20B2%20-%20GANHADEIRAS_BONGA.mp3</guid>
+  <itunes:duration>0:30:10</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>2</itunes:episode>
+</item>
+<!-- FIM T2E04 - BLOCO 2 -->
+
+<!-- INÍCIO T2E04 - BLOCO 3 -->
+<item>
+  <title>Som do Mundo - T2E04 - Bloco 3: Sakanaction e Dmitry Malikov</title>
+  <description><![CDATA[Terceiro bloco trazendo a mistura sonora de SAKANACTION (Japão) e o talento instrumental de DMITRY MALIKOV (Rússia).]]></description>
+  <pubDate>Tue, 13 Oct 2026 11:40:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E4%20B3%20-%20SAKANACTION_MALIKOV.mp3" length="57252249" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E4%20B3%20-%20SAKANACTION_MALIKOV.mp3</guid>
+  <itunes:duration>0:29:49</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>3</itunes:episode>
+</item>
+<!-- FIM T2E04 - BLOCO 3 -->
+
+<!-- INÍCIO T2E04 - BLOCO 4 -->
+<item>
+  <title>Som do Mundo - T2E04 - Bloco 4: Hora da Revisão</title>
+  <description><![CDATA[Quarto bloco: Hora da Revisão do Episódio 04 da 2ª Temporada.]]></description>
+  <pubDate>Tue, 13 Oct 2026 11:30:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E4%20B4%20-%20REVISAO.mp3" length="61446758" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E4%20B4%20-%20REVISAO.mp3</guid>
+  <itunes:duration>0:31:59</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>4</itunes:episode>
+</item>
+<!-- FIM T2E04 - BLOCO 4 -->
+		<!-- INÍCIO T2E03 - BLOCO 1 -->
 <item>
   <title>Som do Mundo - T2E03 - Bloco 1: Laborier e Babi</title>
   <description><![CDATA[No primeiro bloco da 2ª Temporada - Episódio 03, apresentamos a sonoridade de Laborier e a musicalidade de Babi.]]></description>
