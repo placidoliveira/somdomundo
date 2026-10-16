@@ -32,6 +32,58 @@ xmlns:media="http://search.yahoo.com/mrss/">
 		</itunes:category>
 
 
+
+		<!-- INÍCIO T2E05 - BLOCO 1 -->
+<item>
+  <title>Som do Mundo - T2E05 - Bloco 1: Especial Hora da Revisão (Parte I)</title>
+  <description><![CDATA[Nesta semana em SOM DO MUNDO, trazemos o nosso Especial Hora da Revisão. Primeiro bloco relembrando os grandes destaques e momentos marcantes das últimas edições. Apresentação: Plácido Oliveira.]]></description>
+  <pubDate>Fri, 16 Oct 2026 12:00:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E5%20B1%20-%20ESPECIALREVISAO.mp3" length="47919923" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E5%20B1%20-%20ESPECIALREVISAO.mp3</guid>
+  <itunes:duration>0:24:58</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>1</itunes:episode>
+</item>
+<!-- FIM T2E05 - BLOCO 1 -->
+
+<!-- INÍCIO T2E05 - BLOCO 2 -->
+<item>
+  <title>Som do Mundo - T2E05 - Bloco 2: Especial Hora da Revisão (Parte II)</title>
+  <description><![CDATA[Segundo bloco do Especial Hora da Revisão, continuando nossa viagem pelas sonoridades marcantes do programa.]]></description>
+  <pubDate>Fri, 16 Oct 2026 11:50:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E5%20B2%20-%20ESPECIALREVISAO.mp3" length="48444211" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E5%20B2%20-%20ESPECIALREVISAO.mp3</guid>
+  <itunes:duration>0:25:14</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>2</itunes:episode>
+</item>
+<!-- FIM T2E05 - BLOCO 2 -->
+
+<!-- INÍCIO T2E05 - BLOCO 3 -->
+<item>
+  <title>Som do Mundo - T2E05 - Bloco 3: Especial Hora da Revisão (Parte III)</title>
+  <description><![CDATA[Terceiro bloco do Especial Hora da Revisão com mais uma seleção inusitada de musicalidades ao redor do globo.]]></description>
+  <pubDate>Fri, 16 Oct 2026 11:40:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E5%20B3%20-%20ESPECIALREVISAO.mp3" length="54840360" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E5%20B3%20-%20ESPECIALREVISAO.mp3</guid>
+  <itunes:duration>0:28:34</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>3</itunes:episode>
+</item>
+<!-- FIM T2E05 - BLOCO 3 -->
+
+<!-- INÍCIO T2E05 - BLOCO 4 -->
+<item>
+  <title>Som do Mundo - T2E05 - Bloco 4: Especial Hora da Revisão (Parte IV)</title>
+  <description><![CDATA[Quarto bloco e encerramento do Especial Hora da Revisão do Episódio 05 da 2ª Temporada.]]></description>
+  <pubDate>Fri, 16 Oct 2026 11:30:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E5%20B4%20-%20ESPECIALREVISAO.mp3" length="57147392" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E5%20B4%20-%20ESPECIALREVISAO.mp3</guid>
+  <itunes:duration>0:29:46</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>4</itunes:episode>
+</item>
+<!-- FIM T2E05 - BLOCO 4 -->
 		<!-- INÍCIO T2E04 - BLOCO 1 -->
 <item>
   <title>Som do Mundo - T2E04 - Bloco 1: Midpak e Bolbec</title>
