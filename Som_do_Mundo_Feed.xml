@@ -32,7 +32,57 @@ xmlns:media="http://search.yahoo.com/mrss/">
 		</itunes:category>
 
 
+<!-- INÍCIO T2E06 - BLOCO 1 -->
+<item>
+  <title>Som do Mundo - T2E06 - Bloco 1: Leo Maier e Robert Johnson</title>
+  <description><![CDATA[Na segunda temporada de SOM DO MUNDO, continuamos a nossa viagem musical, em companhia de: LEO MAIER (Brasil) e ROBERT JOHNSON (EUA). Apresentação: Plácido Oliveira.]]></description>
+  <pubDate>Fri, 23 Oct 2026 12:00:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E6%20B1%20-%20MAIER_JOHNSON.mp3" length="54211379" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E6%20B1%20-%20MAIER_JOHNSON.mp3</guid>
+  <itunes:duration>0:28:13</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>1</itunes:episode>
+</item>
+<!-- FIM T2E06 - BLOCO 1 -->
 
+<!-- INÍCIO T2E06 - BLOCO 2 -->
+<item>
+  <title>Som do Mundo - T2E06 - Bloco 2: Mariza e Nicho Hinojosa</title>
+  <description><![CDATA[Segundo bloco com a emoção do fado de MARIZA (Portugal) e as interpretações marcantes de NICHO HINOJOSA (México).]]></description>
+  <pubDate>Fri, 23 Oct 2026 11:50:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E6%20B2%20MARIZA_HINOJOSA.mp3" length="49912217" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E6%20B2%20MARIZA_HINOJOSA.mp3</guid>
+  <itunes:duration>0:26:00</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>2</itunes:episode>
+</item>
+<!-- FIM T2E06 - BLOCO 2 -->
+
+<!-- INÍCIO T2E06 - BLOCO 3 -->
+<item>
+  <title>Som do Mundo - T2E06 - Bloco 3: Ricardo Arjona e Tonica &amp; Dominante</title>
+  <description><![CDATA[Terceiro bloco apresentando as composições de RICARDO ARJONA (Guatemala) e a sonoridade de TONICA & DOMINANTE (Itália).]]></description>
+  <pubDate>Fri, 23 Oct 2026 11:40:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E6%20B3%20ARJONA_DOMINANTE.mp3" length="64277708" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E6%20B3%20ARJONA_DOMINANTE.mp3</guid>
+  <itunes:duration>0:33:27</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>3</itunes:episode>
+</item>
+<!-- FIM T2E06 - BLOCO 3 -->
+
+<!-- INÍCIO T2E06 - BLOCO 4 -->
+<item>
+  <title>Som do Mundo - T2E06 - Bloco 4: Hora da Revisão</title>
+  <description><![CDATA[Quarto bloco: Hora da Revisão do Episódio 06 da 2ª Temporada.]]></description>
+  <pubDate>Fri, 23 Oct 2026 11:30:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E6%20B4%20-%20REVIS%C3%83O.mp3" length="58195968" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E6%20B4%20-%20REVIS%C3%83O.mp3</guid>
+  <itunes:duration>0:30:17</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>4</itunes:episode>
+</item>
+<!-- FIM T2E06 - BLOCO 4 -->
 		<!-- INÍCIO T2E05 - BLOCO 1 -->
 <item>
   <title>Som do Mundo - T2E05 - Bloco 1: Especial Hora da Revisão (Parte I)</title>
