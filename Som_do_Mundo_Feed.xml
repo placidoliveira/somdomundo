@@ -31,7 +31,57 @@ xmlns:media="http://search.yahoo.com/mrss/">
 			<itunes:category text="Music History"/>
 		</itunes:category>
 
+<!-- INÍCIO T2E07 - BLOCO 1 -->
+<item>
+  <title>Som do Mundo - T2E07 - Bloco 1: I Monster e Tschaikann</title>
+  <description><![CDATA[Na segunda temporada de SOM DO MUNDO, continuamos a nossa viagem musical. Primeiro bloco com as sonoridades de I MONSTER (Inglaterra) e o som de TSCHAIKANN (Brasil). Apresentação: Plácido Oliveira.]]></description>
+  <pubDate>Fri, 30 Oct 2026 08:00:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E7%20B1%20-%20IMONSTER_TSCHAIKANN.mp3" length="56937021" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E7%20B1%20-%20IMONSTER_TSCHAIKANN.mp3</guid>
+  <itunes:duration>0:29:39</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>1</itunes:episode>
+</item>
+<!-- FIM T2E07 - BLOCO 1 -->
 
+<!-- INÍCIO T2E07 - BLOCO 2 -->
+<item>
+  <title>Som do Mundo - T2E07 - Bloco 2: Moyses e Valenzuela</title>
+  <description><![CDATA[Segundo bloco com a musicalidade de MOYSES (Brasil) e as interpretações de VALENZUELA (Chile).]]></description>
+  <pubDate>Fri, 30 Oct 2026 07:50:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E7%20B2-%20MOYSES_VALENZUELA.mp3" length="52953088" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E7%20B2-%20MOYSES_VALENZUELA.mp3</guid>
+  <itunes:duration>0:27:35</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>2</itunes:episode>
+</item>
+<!-- FIM T2E07 - BLOCO 2 -->
+
+<!-- INÍCIO T2E07 - BLOCO 3 -->
+<item>
+  <title>Som do Mundo - T2E07 - Bloco 3: Dembele e Wong</title>
+  <description><![CDATA[Terceiro bloco trazendo os ritmos marcantes de DEMBELE (Mali) e a sonoridade de WONG (Japão).]]></description>
+  <pubDate>Fri, 30 Oct 2026 07:40:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E7%20B3%20-%20DEMBELE_WONG.mp3" length="67318579" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E7%20B3%20-%20DEMBELE_WONG.mp3</guid>
+  <itunes:duration>0:35:04</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>3</itunes:episode>
+</item>
+<!-- FIM T2E07 - BLOCO 3 -->
+
+<!-- INÍCIO T2E07 - BLOCO 4 -->
+<item>
+  <title>Som do Mundo - T2E07 - Bloco 4: Hora da Revisão</title>
+  <description><![CDATA[Quarto bloco: Hora da Revisão do Episódio 07 da 2ª Temporada.]]></description>
+  <pubDate>Fri, 30 Oct 2026 07:30:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E7%20B4%20-%20REVIS%C3%83O.mp3" length="82208358" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2%20E7%20B4%20-%20REVIS%C3%83O.mp3</guid>
+  <itunes:duration>0:42:48</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>4</itunes:episode>
+</item>
+<!-- FIM T2E07 - BLOCO 4 -->
 <!-- INÍCIO T2E06 - BLOCO 1 -->
 <item>
   <title>Som do Mundo - T2E06 - Bloco 1: Leo Maier e Robert Johnson</title>
