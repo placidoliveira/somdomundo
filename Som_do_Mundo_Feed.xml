@@ -31,7 +31,59 @@ xmlns:media="http://search.yahoo.com/mrss/">
 			<itunes:category text="Music History"/>
 		</itunes:category>
 
-<!-- INÍCIO T2E07 - BLOCO 1 -->
+
+		<!-- INÍCIO T2E08 - BLOCO 1 -->
+<item>
+  <title>Som do Mundo - T2E08 - Bloco 1: Renato Godá e Bad Boys Blue</title>
+  <description><![CDATA[Na segunda temporada de SOM DO MUNDO, continuamos a nossa viagem musical, em companhia de: RENATO GODÁ (Brasil) e BAD BOYS BLUE (Alemanha). Apresentação: Plácido Oliveira.]]></description>
+  <pubDate>Fri, 06 Nov 2026 15:00:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2E08%20-%20BLOCO1%20-%20GGODA_BADBOYS.mp3" length="58405683" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2E08%20-%20BLOCO1%20-%20GGODA_BADBOYS.mp3</guid>
+  <itunes:duration>0:30:24</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>1</itunes:episode>
+</item>
+<!-- FIM T2E08 - BLOCO 1 -->
+
+<!-- INÍCIO T2E08 - BLOCO 2 -->
+<item>
+  <title>Som do Mundo - T2E08 - Bloco 2: Gibkiy Chaplin e Khaled</title>
+  <description><![CDATA[Segundo bloco com as sonoridades de GIBKIY CHAPLIN (Ucrânia) e os ritmos marcantes de KHALED (Argélia).]]></description>
+  <pubDate>Fri, 06 Nov 2026 14:50:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2E08%20-%20BLOCO2%20-%20CHAPLIN_KHALED.mp3" length="53582233" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2E08%20-%20BLOCO2%20-%20CHAPLIN_KHALED.mp3</guid>
+  <itunes:duration>0:27:54</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>2</itunes:episode>
+</item>
+<!-- FIM T2E08 - BLOCO 2 -->
+
+<!-- INÍCIO T2E08 - BLOCO 3 -->
+<item>
+  <title>Som do Mundo - T2E08 - Bloco 3: Kya Loum e Miriam Makeba</title>
+  <description><![CDATA[Terceiro bloco apresentando o talento de KYA LOUM (Senegal) e a voz inesquecível de MIRIAM MAKEBA (África do Sul).]]></description>
+  <pubDate>Fri, 06 Nov 2026 14:40:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2E08%20-%20BLOCO3%20-%20LOUM_MAKEDA.mp3" length="53162803" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2E08%20-%20BLOCO3%20-%20LOUM_MAKEDA.mp3</guid>
+  <itunes:duration>0:27:40</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>3</itunes:episode>
+</item>
+<!-- FIM T2E08 - BLOCO 3 -->
+
+<!-- INÍCIO T2E08 - BLOCO 4 -->
+<item>
+  <title>Som do Mundo - T2E08 - Bloco 4: Hora da Revisão</title>
+  <description><![CDATA[Quarto bloco: Hora da Revisão do Episódio 08 da 2ª Temporada.]]></description>
+  <pubDate>Fri, 06 Nov 2026 14:30:00 -0300</pubDate>
+  <enclosure url="https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2E08%20-%20BLOCO4%20-%20REVISAO.mp3" length="59349401" type="audio/mpeg" />
+  <guid isPermaLink="false">https://archive.org/download/somdomundo2ed/SOMDOMUNDO%20T2E08%20-%20BLOCO4%20-%20REVISAO.mp3</guid>
+  <itunes:duration>0:30:56</itunes:duration>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>4</itunes:episode>
+</item>
+<!-- FIM T2E08 - BLOCO 4 -->
+		<!-- INÍCIO T2E07 - BLOCO 1 -->
 <item>
   <title>Som do Mundo - T2E07 - Bloco 1: I Monster e Tschaikann</title>
   <description><![CDATA[Na segunda temporada de SOM DO MUNDO, continuamos a nossa viagem musical. Primeiro bloco com as sonoridades de I MONSTER (Inglaterra) e o som de TSCHAIKANN (Brasil). Apresentação: Plácido Oliveira.]]></description>
